@@ -1,0 +1,8 @@
+C:\Users\Garg1l1a\Desktop\repos\Learn_1\Learn_1\bin\Debug\Learn_1.exe.config
+C:\Users\Garg1l1a\Desktop\repos\Learn_1\Learn_1\bin\Debug\Learn_1.exe
+C:\Users\Garg1l1a\Desktop\repos\Learn_1\Learn_1\bin\Debug\Learn_1.pdb
+C:\Users\Garg1l1a\Desktop\repos\Learn_1\Learn_1\obj\Debug\Learn_1.csproj.AssemblyReference.cache
+C:\Users\Garg1l1a\Desktop\repos\Learn_1\Learn_1\obj\Debug\Learn_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Garg1l1a\Desktop\repos\Learn_1\Learn_1\obj\Debug\Learn_1.csproj.CoreCompileInputs.cache
+C:\Users\Garg1l1a\Desktop\repos\Learn_1\Learn_1\obj\Debug\Learn_1.exe
+C:\Users\Garg1l1a\Desktop\repos\Learn_1\Learn_1\obj\Debug\Learn_1.pdb
